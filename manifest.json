@@ -1,0 +1,5 @@
+{
+    "namespace": "MelvorSocial",
+    "setup": "setup.mjs",
+    "load": ["templates/templates.html"]
+}
